@@ -108,3 +108,16 @@ This project directly supports SDG 4 (Quality Education) by providing accessible
 Bhushan Walunj
 
 Engineering Learning Assistant Project – SDG 4 Quality Education
+## Botpress Project Export
+
+The complete Botpress project is included in the `bot-export` folder as a `.bpz` archive file.
+
+This archive contains:
+
+- Workflow configuration
+- Autonomous AI Agent
+- Knowledge Base setup
+- System prompts
+- Bot settings
+
+The project can be imported into Botpress Cloud for reproduction and testing.
